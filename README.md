@@ -1,4 +1,4 @@
-Grogu Repository addon
+Grogu Repository addon Beta for Kodi 18
 
 * Current Version: 0.03
 
@@ -13,10 +13,6 @@ Go to the Kodi file manager.
 Go to "Addons"
 
 * In Addons, install an addon from zip. When it asks for the location, select "Grogu Repo", and install plugin.video.grogu-x.xx.zip
-
-* Go back to Addons install, but this time, select "Install from repository"
-
-Select the "Grogu Repository"
 
 * Go into the "Video add-ons" section in the repo, and you'll find Grogu
 
