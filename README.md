@@ -1,6 +1,6 @@
 Grogu Repository addon
 
-* Current Version: 0.0.1
+* Current Version: 0.03
 
 * Instructions for adding this repo:
 
