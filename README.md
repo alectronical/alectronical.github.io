@@ -12,7 +12,7 @@ Go to the Kodi file manager.
 
 Go to "Addons"
 
-* In Addons, install an addon from zip. When it asks for the location, select "Grogu Repo", and install plugin.video.grogu-0.02.zip
+* In Addons, install an addon from zip. When it asks for the location, select "Grogu Repo", and install plugin.video.grogu-x.xx.zip
 
 * Go back to Addons install, but this time, select "Install from repository"
 
